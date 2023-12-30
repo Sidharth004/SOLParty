@@ -6,4 +6,19 @@
   justify-content: center;
   margin-top: auto;
   font-size: 100px;
+  margin-bottom: 0.7rem;
+}
+.tagline{
+  display: flex;
+  justify-content: center;
+  font-family: 'Inter', sans-serif;
+
+}
+
+.intro{
+  display: flex; 
+  justify-content: center;
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+
 }
